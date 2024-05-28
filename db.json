@@ -1,0 +1,24 @@
+{
+    "articles": [
+      {
+        "id": "2",
+        "title": "Scincare",
+        "content": "Daviena"
+      },
+      {
+        "id": "3",
+        "title": "Night Routine",
+        "content": "Toner"
+      },
+      {
+        "id": "4",
+        "title": "Morning Routine",
+        "content": "Sunscreen"
+      },
+      {
+        "id": "5",
+        "title": "Body Care",
+        "content": "Marina"
+      }
+    ]
+  }
